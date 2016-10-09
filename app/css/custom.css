@@ -1,0 +1,20 @@
+/*
+Static file for Theme changes
+Theme name: My SPA Theme
+Version: 1.0
+Template: Howdy
+*/
+
+body {
+    background:#FFF;
+}
+
+.container,
+.container-view {
+    max-width:1150px;
+    margin:0 auto;
+}
+
+.container-view {
+    margin:45px auto 0;
+}
